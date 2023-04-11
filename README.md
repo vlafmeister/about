@@ -1,4 +1,4 @@
-###                                                     Hi there 👋 ,I'm Vlaf
+###                                                     Memento mori 👋 ,I'm Vlaf
 
 From Andromeda Galaxy, temporarily lingered on planet earth I don't know how I got here ¯\_(ツ)_/¯
 
