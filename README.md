@@ -1,8 +1,5 @@
 ###                                                     Memento mori 👋 ,I'm Vlaf
-
-From Andromeda Galaxy, temporarily lingered on planet earth I don't know how I got here ¯\_(ツ)_/¯
-
-- 🔭 I’m currently working on Now I am working on a project called SpaceWaveOS, it will be used on spaceships I guess
+I live on your home server:)
 - 🌱 I’m currently learning everything
 - 👯 I'm looking for opportunities to collaborate on <expected ideas, brilliant ideas>
 - 📫 How to reach me: tweet @vlafmeister or you can find me here [discord](https://discord.gg/RzHnsgwmKz)
